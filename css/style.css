@@ -1,0 +1,22 @@
+h4{
+	font-size: 50px;
+	color: red;
+}
+.para2{color: green;font-size:36;}
+.header{text-align: center;
+	min-height: 40px;
+	background-color: purple;}
+	.wrapper{
+		overflow: hidden;
+		border: 10px darkred;}
+		.contact{float: left;
+			width: 65%;
+			min-hight: 100px;
+			background-color: green;}
+	.blog{float: right;
+		width: 30%;
+		min-hight: 100px;
+		background-color: blue;}
+	.footer{text-align: center;
+		min-hight: 38px;
+		background-color: indigo;}
